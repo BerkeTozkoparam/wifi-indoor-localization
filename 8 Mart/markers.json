@@ -1,0 +1,27 @@
+[
+  {
+    "lat": 40.19697030740908,
+    "lon": 29.060554504394535,
+    "durum": "Dikkatli",
+    "kategori": "Aydınlatma Sorunu",
+    "not": "",
+    "tarih": "07.03.2026 01:15"
+  },
+  {
+    "lat": 40.219584758506315,
+    "lon": 29.013862609863285,
+    "durum": "Güvenli",
+    "kategori": "Polis / Güvenlik Noktası",
+    "not": "",
+    "tarih": "07.03.2026 01:16"
+  },
+  {
+    "lat": 40.35923348176083,
+    "lon": 28.916959762573246,
+    "durum": "Güvenli",
+    "kategori": "Polis / Güvenlik Noktası",
+    "not": "",
+    "fotograf": "4582fc7b969c4d2eb8773b778f571bfa.jpeg",
+    "tarih": "07.03.2026 01:20"
+  }
+]
